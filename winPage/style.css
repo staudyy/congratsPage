@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+@font-face {
+    font-family: "LocalComicSans";
+    src: url("./assets/Comic_Sans_MS.ttf");
+}
